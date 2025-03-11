@@ -1,0 +1,1 @@
+I am currently working on learinign about computer vision and how to apply it through projects. This repository is the chronicle of all of the different projects that I have been working as I learn more about the subject and improve my skills.
