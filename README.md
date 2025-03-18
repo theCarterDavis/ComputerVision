@@ -106,7 +106,4 @@ Some helpful resources for learning computer vision:
 
 ## Future Projects
 
-- Object tracking
-- Pose estimation
-- Image segmentation
-- Gesture recognition
+- 3D Computer Vision
