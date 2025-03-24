@@ -23,6 +23,7 @@ ComputerVision/
 ├── FaceBlur/             # Detects and blurs faces in images and video
 ├── Image Detection/      # Parking space detection application
 ├── TextDetection/        # OCR implementation using EasyOCR and Tesseract
+├── ObjectDetection/      # SAM2 object detection inferance using webcam
 ```
 
 ## Installation
@@ -67,6 +68,11 @@ Implements Optical Character Recognition (OCR) using two different libraries:
 - EasyOCR for scene text detection
 - Pytesseract for document text recognition
 
+### Object Detection(In progress)
+Implements object segmentation through the use of SAM2:
+- Goal is to detect shapes and compare them to a key to test the accuracy for different shapes
+- Currently will allow the user to click on any point in the webcam feed and run SAM2's inference to show what it views as the object clicked on
+
 ## Usage Examples
 
 ### Face Blur Example
@@ -93,7 +99,8 @@ Key libraries used in these projects:
 - NumPy: For numerical operations
 - EasyOCR & Pytesseract: For text recognition
 - PIL/Pillow: For image processing
-- scikit-image: For image transformation
+- Scikit-image: For image transformation
+- Ultralytics: For instance segmentation
 
 ## Learning Resources
 
