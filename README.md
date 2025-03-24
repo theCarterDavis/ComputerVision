@@ -11,7 +11,7 @@ The repository contains multiple mini-projects focused on various computer visio
 - Face detection and blurring
 - Text recognition (OCR)
 - Parking space detection
-- Object segmentation
+- Object detection
 
 Each project demonstrates different techniques and libraries to solve specific computer vision problems.
 
