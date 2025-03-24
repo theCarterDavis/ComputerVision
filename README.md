@@ -100,13 +100,9 @@ Key libraries used in these projects:
 Some helpful resources for learning computer vision:
 - [OpenCV Documentation](https://docs.opencv.org/)
 - [PyImageSearch Tutorials](https://pyimagesearch.com/)
-- [Mediapipe Documentation](https://google.github.io/mediapipe/)
 - [Learn OpenCV Github/Blog](https://github.com/spmallick/learnopencv)
 - [Open CV Python Tutorials Repository](https://github.com/niconielsen32/opencv-python-tutorials)
 
 ## Future Projects
 
-- Object tracking
-- Pose estimation
-- Image segmentation
-- Gesture recognition
+- 3D Computer Vision
